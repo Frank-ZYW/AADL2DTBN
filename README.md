@@ -34,9 +34,9 @@ The AADL2DTBN, an OSATE2 plugin, support for a DTBN-based quantitative safety an
 
    *enter query statements by line -> OK -> the result will be generated under the folder `/reports`*
 
-![](https://github.com/Frank-ZYW/AADL2DTBN/main/img/start.png)
+![](https://github.com/Frank-ZYW/AADL2DTBN/blob/master/img/start.png)
 
-![](https://github.com/Frank-ZYW/AADL2DTBN/main/img/result.png)
+![](https://github.com/Frank-ZYW/AADL2DTBN/blob/master/img/result.png)
 
 ## Query statement
 
